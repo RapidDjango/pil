@@ -2,16 +2,16 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
     <item
         android:id="@+id/nav_restautant"
-        android:icon="@drawable/icon_restaurants"
-        android:title="Pro Italian's" />
+        android:icon="@drawable/icon_pro"
+        android:title="Professionisti" />
     <item
         android:id="@+id/nav_tray"
-        android:icon="@drawable/icon_tray"
-        android:title="Tray" />
+        android:icon="@drawable/icon_job"
+        android:title="Lavoro" />
     <item
         android:id="@+id/nav_order"
-        android:icon="@drawable/icon_order"
-        android:title="Order" />
+        android:icon="@drawable/icon_settled"
+        android:title="Settled-Status" />
     <item
         android:id="@+id/nav_logout"
         android:icon="@drawable/icon_logout"
